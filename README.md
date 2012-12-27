@@ -22,4 +22,4 @@ We manage our WordPress plugins using [Git submodules](http://git-scm.com/book/e
 - Twitter for WordPress
 - [W3 Total Cache](https://github.com/crowdfavorite-mirrors/wp-w3-total-cache)
 - WP-Mint
-- WP-Syntax
+- [WP-Syntax](https://github.com/shazahm1/WP-Syntax)

@@ -25,3 +25,6 @@
 [submodule "content/plugins/event-manager"]
 	path = content/plugins/event-manager
 	url = https://github.com/recordsonribs/Ribcage-Events-Manager
+[submodule "content/plugins/wp-syntax"]
+	path = content/plugins/wp-syntax
+	url = https://github.com/shazahm1/WP-Syntax
