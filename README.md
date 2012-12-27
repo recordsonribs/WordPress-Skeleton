@@ -2,9 +2,15 @@
 
 Our WordPress setup. Uses [Mark Jaquith](http://markjaquith.com/)'s [WordPress Skeleton](https://github.com/markjaquith/WordPress-Skeleton) as a starting point.
 
-## Plugins Used
+We manage our WordPress themes and plugins using [Git submodules](http://git-scm.com/book/en/Git-Tools-Submodules). We have tried to find the latest SVN mirrors for each and in the event where they are missing created our own. 
 
-We manage our WordPress plugins using [Git submodules](http://git-scm.com/book/en/Git-Tools-Submodules). We have tried to find the latest SVN mirrors for each and in the event where they are missing created our own. See our [.gitmodules](https://github.com/recordsonribs/wordpress/blob/master/.gitmodules) for full details. 
+See our [.gitmodules](https://github.com/recordsonribs/wordpress/blob/master/.gitmodules) for full details. 
+
+## Theme
+
+We are using our current WordPress theme, [ror](https://github.com/recordsonribs/ror).
+
+## Plugins
 
 - [Advanced Excerpt](https://github.com/crowdfavorite/mirror-wp-advanced-excerpt)
 - [Akismet](https://github.com/crowdfavorite-mirrors/wp-akismet)
