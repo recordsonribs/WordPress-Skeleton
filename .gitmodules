@@ -37,3 +37,6 @@
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
 	url = https://github.com/jdevalk/wordpress-seo
+[submodule "content/plugins/gregs-threaded-comment-numbering"]
+	path = content/plugins/gregs-threaded-comment-numbering
+	url = https://github.com/recordsonribs/mirror-wp-gregs-threaded-comment-numbering
