@@ -25,9 +25,9 @@ We are using our current WordPress theme, [ror](https://github.com/recordsonribs
 - [Ribcage Events Manager](https://github.com/recordsonribs/Ribcage-Events-Manager)
 - [Redirection](https://github.com/crowdfavorite-mirrors/wp-redirection)
 - [Ribcage](https://github.com/recordsonribs/ribcage)
-- Robots Meta
 - [ShareThis](https://github.com/crowdfavorite/mirror-wp-share-this)
 - Twitter for WordPress
+- [WordPress SEO](https://github.com/jdevalk/wordpress-seo)
 - [W3 Total Cache](https://github.com/crowdfavorite-mirrors/wp-w3-total-cache)
 - WP-Mint
 - [WP-Syntax](https://github.com/shazahm1/WP-Syntax)
