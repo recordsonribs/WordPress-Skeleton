@@ -16,3 +16,6 @@
 [submodule "content/plugins/share-this"]
 	path = content/plugins/share-this
 	url = https://github.com/crowdfavorite/mirror-wp-share-this
+[submodule "content/plugins/w3-total-cache"]
+	path = content/plugins/w3-total-cache
+	url = https://github.com/crowdfavorite-mirrors/wp-w3-total-cache
