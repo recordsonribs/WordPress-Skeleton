@@ -4,7 +4,9 @@ Our WordPress setup. Uses [Mark Jaquith](http://markjaquith.com/)'s [WordPress S
 
 We manage our WordPress themes and plugins using [Git submodules](http://git-scm.com/book/en/Git-Tools-Submodules). We have tried to find the latest SVN mirrors for each and in the event where they are missing created our own. 
 
-See our [.gitmodules](https://github.com/recordsonribs/wordpress/blob/master/.gitmodules) for full details. 
+See our [.gitmodules](https://github.com/recordsonribs/wordpress/blob/master/.gitmodules) for full details.
+
+We deploy using Capistrano inspired by Mark Jaquith's other excellent project [WP-Stack](https://github.com/markjaquith/WP-Stack).
 
 ## Theme
 
