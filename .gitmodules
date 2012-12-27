@@ -31,3 +31,6 @@
 [submodule "content/plugins/redirection"]
 	path = content/plugins/redirection
 	url = https://github.com/crowdfavorite-mirrors/wp-redirection
+[submodule "content/themes/ror"]
+	path = content/themes/ror
+	url = https://github.com/recordsonribs/ror
