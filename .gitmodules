@@ -10,3 +10,6 @@
 [submodule "content/plugins/wp-google-analytics-for-wordpress"]
 	path = content/plugins/wp-google-analytics-for-wordpress
 	url = https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress
+[submodule "content/plugin/google-sitemap-generator"]
+	path = content/plugin/google-sitemap-generator
+	url = https://github.com/crowdfavorite-mirrors/wp-google-sitemap-generator
