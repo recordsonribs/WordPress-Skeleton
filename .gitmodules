@@ -10,8 +10,8 @@
 [submodule "content/plugins/wp-google-analytics-for-wordpress"]
 	path = content/plugins/wp-google-analytics-for-wordpress
 	url = https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress
-[submodule "content/plugin/google-sitemap-generator"]
-	path = content/plugin/google-sitemap-generator
+[submodule "content/plugins/google-sitemap-generator"]
+	path = content/plugins/google-sitemap-generator
 	url = https://github.com/crowdfavorite-mirrors/wp-google-sitemap-generator
 [submodule "content/plugins/share-this"]
 	path = content/plugins/share-this
@@ -19,12 +19,9 @@
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
 	url = https://github.com/crowdfavorite-mirrors/wp-w3-total-cache
-[submodule "content/plugin/ribcage"]
-	path = content/plugin/ribcage
+[submodule "content/plugins/ribcage"]
+	path = content/plugins/ribcage
 	url = https://github.com/recordsonribs/ribcage
-[submodule "content/plugins/event-manager"]
-	path = content/plugins/event-manager
-	url = https://github.com/recordsonribs/Ribcage-Events-Manager
 [submodule "content/plugins/event-manager"]
 	path = content/plugins/event-manager
 	url = https://github.com/recordsonribs/Ribcage-Events-Manager
