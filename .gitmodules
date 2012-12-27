@@ -19,3 +19,6 @@
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
 	url = https://github.com/crowdfavorite-mirrors/wp-w3-total-cache
+[submodule "content/plugin/ribcage"]
+	path = content/plugin/ribcage
+	url = https://github.com/recordsonribs/ribcage
