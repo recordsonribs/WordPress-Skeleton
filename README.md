@@ -1,4 +1,4 @@
-# Records On Ribs WordPress
+# Records On Ribs WordPress Skeleton
 
 Our WordPress setup. Uses [Mark Jaquith](http://markjaquith.com/)'s [WordPress Skeleton](https://github.com/markjaquith/WordPress-Skeleton) as a starting point.
 
