@@ -27,12 +27,12 @@ Those mirrored by Records On Ribs are marked with a *.
 - [ShareThis](https://github.com/crowdfavorite/mirror-wp-share-this)
 - [WordPress SEO](https://github.com/jdevalk/wordpress-seo)
 - [W3 Total Cache](https://github.com/crowdfavorite-mirrors/wp-w3-total-cache)
-- WP-Mint
 - [WP-Syntax](https://github.com/shazahm1/WP-Syntax)
 
 ### Plugins To Mirror
 
-- Twitter for WordPress
 - Javascript To Footer
 - JAW Duplicate Widgets
 - Maintenance Mode
+- Twitter for WordPress
+- WP-Mint
