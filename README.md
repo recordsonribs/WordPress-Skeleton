@@ -15,7 +15,7 @@ We manage our WordPress plugins using [Git submodules](http://git-scm.com/book/e
 - JAW Duplicate Widgets
 - Maintenance Mode
 - [Ribcage Events Manager](https://github.com/recordsonribs/Ribcage-Events-Manager)
-- Redirection
+- [Redirection](https://github.com/crowdfavorite-mirrors/wp-redirection)
 - [Ribcage](https://github.com/recordsonribs/ribcage)
 - Robots Meta
 - [ShareThis](https://github.com/crowdfavorite/mirror-wp-share-this)

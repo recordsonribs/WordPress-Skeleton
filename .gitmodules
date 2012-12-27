@@ -28,3 +28,6 @@
 [submodule "content/plugins/wp-syntax"]
 	path = content/plugins/wp-syntax
 	url = https://github.com/shazahm1/WP-Syntax
+[submodule "content/plugins/redirection"]
+	path = content/plugins/redirection
+	url = https://github.com/crowdfavorite-mirrors/wp-redirection
