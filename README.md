@@ -6,7 +6,7 @@ We manage our WordPress themes and plugins using [Git submodules](http://git-scm
 
 See our [.gitmodules](https://github.com/recordsonribs/wordpress/blob/master/.gitmodules) for full details.
 
-We deploy using Capistrano inspired by Mark Jaquith's other excellent project [WP-Stack](https://github.com/markjaquith/WP-Stack).
+We deploy using [Capistrano](https://github.com/capistrano/capistrano) inspired by Mark Jaquith's other excellent project [WP-Stack](https://github.com/markjaquith/WP-Stack).
 
 ## Theme
 
