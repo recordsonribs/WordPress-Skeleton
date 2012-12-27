@@ -1,9 +1,6 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
-[submodule "content/plugins/akismet"]
-	path = content/plugins/akismet
-	url = https://github.com/crowdfavorite-mirrors/wp-akismet
 [submodule "content/plugins/advanced-excerpt"]
 	path = content/plugins/advanced-excerpt
 	url = https://github.com/crowdfavorite/mirror-wp-advanced-excerpt
