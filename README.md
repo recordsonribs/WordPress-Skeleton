@@ -21,15 +21,18 @@ Those mirrored by Records On Ribs are marked with a *.
 - [Google Analytics for WordPress](https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress)
 - [Google XML Sitemaps](https://github.com/crowdfavorite-mirrors/wp-google-sitemap-generator)
 - [Greg's Threaded Comment Numbering](https://github.com/recordsonribs/mirror-wp-gregs-threaded-comment-numbering) *
-- Javascript To Footer
-- JAW Duplicate Widgets
-- Maintenance Mode
 - [Ribcage Events Manager](https://github.com/recordsonribs/Ribcage-Events-Manager)
 - [Redirection](https://github.com/crowdfavorite-mirrors/wp-redirection)
 - [Ribcage](https://github.com/recordsonribs/ribcage)
 - [ShareThis](https://github.com/crowdfavorite/mirror-wp-share-this)
-- Twitter for WordPress
 - [WordPress SEO](https://github.com/jdevalk/wordpress-seo)
 - [W3 Total Cache](https://github.com/crowdfavorite-mirrors/wp-w3-total-cache)
 - WP-Mint
 - [WP-Syntax](https://github.com/shazahm1/WP-Syntax)
+
+### Plugins To Mirror
+
+- Twitter for WordPress
+- Javascript To Footer
+- JAW Duplicate Widgets
+- Maintenance Mode
