@@ -7,3 +7,6 @@
 [submodule "content/plugins/advanced-excerpt"]
 	path = content/plugins/advanced-excerpt
 	url = https://github.com/crowdfavorite/mirror-wp-advanced-excerpt
+[submodule "content/plugins/wp-google-analytics-for-wordpress"]
+	path = content/plugins/wp-google-analytics-for-wordpress
+	url = https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress
