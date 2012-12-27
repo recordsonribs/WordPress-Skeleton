@@ -13,3 +13,6 @@
 [submodule "content/plugin/google-sitemap-generator"]
 	path = content/plugin/google-sitemap-generator
 	url = https://github.com/crowdfavorite-mirrors/wp-google-sitemap-generator
+[submodule "content/plugins/share-this"]
+	path = content/plugins/share-this
+	url = https://github.com/crowdfavorite/mirror-wp-share-this
