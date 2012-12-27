@@ -37,3 +37,6 @@
 [submodule "content/plugins/gregs-threaded-comment-numbering"]
 	path = content/plugins/gregs-threaded-comment-numbering
 	url = https://github.com/recordsonribs/mirror-wp-gregs-threaded-comment-numbering
+[submodule "content/plugins/akismet"]
+	path = content/plugins/akismet
+	url = https://github.com/crowdfavorite-mirrors/wp-akismet
