@@ -4,3 +4,6 @@
 [submodule "content/plugins/akismet"]
 	path = content/plugins/akismet
 	url = https://github.com/crowdfavorite/mirror-wp-akismet
+[submodule "content/plugins/advanced-excerpt"]
+	path = content/plugins/advanced-excerpt
+	url = https://github.com/crowdfavorite/mirror-wp-advanced-excerpt
