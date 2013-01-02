@@ -39,6 +39,3 @@
 [submodule "content/plugins/events-manager"]
 	path = content/plugins/events-manager
 	url = https://github.com/recordsonribs/Ribcage-Events-Manager
-[submodule "content/plugins/wordpress-seo"]
-	path = content/plugins/wordpress-seo
-	url = https://github.com/crowdfavorite-mirrors/wp-wordpress-seo
