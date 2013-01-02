@@ -1,42 +1,35 @@
-[submodule "wp"]
-	path = wp
-	url = git://github.com/WordPress/WordPress.git
 [submodule "content/plugins/advanced-excerpt"]
 	path = content/plugins/advanced-excerpt
 	url = https://github.com/crowdfavorite/mirror-wp-advanced-excerpt
-[submodule "content/plugins/wp-google-analytics-for-wordpress"]
-	path = content/plugins/wp-google-analytics-for-wordpress
-	url = https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress
-[submodule "content/plugins/google-sitemap-generator"]
-	path = content/plugins/google-sitemap-generator
-	url = https://github.com/crowdfavorite-mirrors/wp-google-sitemap-generator
+[submodule "content/plugins/akismet"]
+	path = content/plugins/akismet
+	url = https://github.com/crowdfavorite-mirrors/wp-akismet
+[submodule "content/plugins/gregs-threaded-comment-numbering"]
+	path = content/plugins/gregs-threaded-comment-numbering
+	url = https://github.com/recordsonribs/mirror-wp-gregs-threaded-comment-numbering
+[submodule "content/plugins/redirection"]
+	path = content/plugins/redirection
+	url = https://github.com/crowdfavorite-mirrors/wp-redirection
 [submodule "content/plugins/share-this"]
 	path = content/plugins/share-this
 	url = https://github.com/crowdfavorite/mirror-wp-share-this
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
 	url = https://github.com/crowdfavorite-mirrors/wp-w3-total-cache
-[submodule "content/plugins/ribcage"]
-	path = content/plugins/ribcage
-	url = https://github.com/recordsonribs/ribcage
-[submodule "content/plugins/event-manager"]
-	path = content/plugins/event-manager
-	url = https://github.com/recordsonribs/Ribcage-Events-Manager
+[submodule "content/plugins/wp-google-analytics-for-wordpress"]
+	path = content/plugins/wp-google-analytics-for-wordpress
+	url = https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress
 [submodule "content/plugins/wp-syntax"]
 	path = content/plugins/wp-syntax
 	url = https://github.com/shazahm1/WP-Syntax
-[submodule "content/plugins/redirection"]
-	path = content/plugins/redirection
-	url = https://github.com/crowdfavorite-mirrors/wp-redirection
 [submodule "content/themes/ror"]
 	path = content/themes/ror
 	url = https://github.com/recordsonribs/ror
-[submodule "content/plugins/wordpress-seo"]
-	path = content/plugins/wordpress-seo
-	url = https://github.com/jdevalk/wordpress-seo
-[submodule "content/plugins/gregs-threaded-comment-numbering"]
-	path = content/plugins/gregs-threaded-comment-numbering
-	url = https://github.com/recordsonribs/mirror-wp-gregs-threaded-comment-numbering
-[submodule "content/plugins/akismet"]
-	path = content/plugins/akismet
-	url = https://github.com/crowdfavorite-mirrors/wp-akismet
+[submodule "wp"]
+	path = wp
+	url = git://github.com/WordPress/WordPress.git
+
+
+
+
+
