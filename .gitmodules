@@ -36,3 +36,6 @@
 [submodule "content/plugins/ribcage"]
 	path = content/plugins/ribcage
 	url = https://github.com/recordsonribs/ribcage
+[submodule "content/plugins/events-manager"]
+	path = content/plugins/events-manager
+	url = https://github.com/recordsonribs/Ribcage-Events-Manager
