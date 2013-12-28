@@ -35,3 +35,7 @@ Those mirrored by Records On Ribs are marked with a *.
 - Maintenance Mode
 - Twitter for WordPress
 - WP-Mint
+
+## Notes
+
+- Turning off ShareThis prevents multiple JS errors.
