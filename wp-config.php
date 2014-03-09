@@ -42,7 +42,9 @@ define( 'NONCE_SALT',       '%%NONCE_SALT%%' );
 // Table prefix
 // Change this if you have multiple installs in the same database
 // ==============================================================
-$table_prefix  = '%%TABLE_PREFIX%%';
+if (! $table_prefix) {
+	$table_prefix  = '%%TABLE_PREFIX%%';	
+}
 
 // ================================
 // Language
