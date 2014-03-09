@@ -3,4 +3,9 @@
 /sql-dump-*.sql
 /db-sync
 /content/upgrade/
-.DS_Store
+.DS_Storecontent/cache/
+content/plugins/w3tc-wp-loader.php
+content/w3tc-config/
+content/cache/config
+content/cache/index.html
+content/cache/tmp
