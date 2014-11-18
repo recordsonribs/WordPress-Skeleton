@@ -7,9 +7,6 @@
 [submodule "content/plugins/gregs-threaded-comment-numbering"]
 	path = content/plugins/gregs-threaded-comment-numbering
 	url = https://github.com/wp-plugins/gregs-threaded-comment-numbering/
-[submodule "content/plugins/redirection"]
-	path = content/plugins/redirection
-	url = https://github.com/wp-plugins/wp-redirection
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
 	url = https://github.com/wp-plugins/w3-total-cache
