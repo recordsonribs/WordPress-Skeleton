@@ -1,35 +1,30 @@
 [submodule "content/plugins/advanced-excerpt"]
 	path = content/plugins/advanced-excerpt
-	url = https://github.com/crowdfavorite/mirror-wp-advanced-excerpt
+	url = https://github.com/wp-plugins/advanced-excerpt
 [submodule "content/plugins/akismet"]
 	path = content/plugins/akismet
-	url = https://github.com/crowdfavorite-mirrors/wp-akismet
+	url = https://github.com/wp-plugins/akismet
 [submodule "content/plugins/gregs-threaded-comment-numbering"]
 	path = content/plugins/gregs-threaded-comment-numbering
-	url = https://github.com/recordsonribs/mirror-wp-gregs-threaded-comment-numbering
+	url = https://github.com/wp-plugins/gregs-threaded-comment-numbering/
 [submodule "content/plugins/redirection"]
 	path = content/plugins/redirection
-	url = https://github.com/crowdfavorite-mirrors/wp-redirection
+	url = https://github.com/wp-plugins/wp-redirection
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
-	url = https://github.com/crowdfavorite-mirrors/wp-w3-total-cache
+	url = https://github.com/wp-plugins/w3-total-cache
 [submodule "content/plugins/wp-google-analytics-for-wordpress"]
 	path = content/plugins/wp-google-analytics-for-wordpress
-	url = https://github.com/crowdfavorite-mirrors/wp-google-analytics-for-wordpress
+	url = https://github.com/wp-plugins/google-analytics-for-wordpress
 [submodule "content/plugins/wp-syntax"]
 	path = content/plugins/wp-syntax
-	url = https://github.com/shazahm1/WP-Syntax
+	url = https://github.com/wp-plugins/WP-Syntax
 [submodule "content/themes/ror"]
 	path = content/themes/ror
 	url = https://github.com/recordsonribs/ror
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
-
-
-
-
-
 [submodule "content/plugins/ribcage"]
 	path = content/plugins/ribcage
 	url = https://github.com/recordsonribs/ribcage
@@ -38,4 +33,4 @@
 	url = https://github.com/recordsonribs/Ribcage-Events-Manager
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
-	url = https://github.com/crowdfavorite-mirrors/wp-wordpress-seo
+	url = https://github.com/wp-plugins/wordpress-seo
