@@ -31,3 +31,6 @@
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
 	url = https://github.com/wp-plugins/wordpress-seo
+[submodule "content/plugins/wp-updates-notifier"]
+	path = content/plugins/wp-updates-notifier
+	url = git@github.com:wp-plugins/wp-updates-notifier.git
