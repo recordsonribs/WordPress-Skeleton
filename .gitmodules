@@ -34,3 +34,6 @@
 [submodule "content/plugins/wp-updates-notifier"]
 	path = content/plugins/wp-updates-notifier
 	url = git@github.com:wp-plugins/wp-updates-notifier.git
+[submodule "content/plugins/better-wp-security"]
+	path = content/plugins/better-wp-security
+	url = git@github.com:wp-plugins/better-wp-security.git
